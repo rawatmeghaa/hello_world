@@ -28,7 +28,6 @@ Hi there! 👋 I'm a passionate developer with a strong background in building s
 
 ## ⚡ Interests
 
-- **Modeling**: I enjoy creating 3D models, working with design software, and bringing ideas to life through digital art.
 - **Gyming**: Staying active and maintaining a healthy lifestyle through regular workouts and fitness routines. Always looking to push myself further and achieve new fitness goals!
 
 ## 📈 My GitHub Stats
